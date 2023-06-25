@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\bin\Debug\net6.0\DoWhile.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\bin\Debug\net6.0\DoWhile.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\bin\Debug\net6.0\DoWhile.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\bin\Debug\net6.0\DoWhile.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\bin\Debug\net6.0\DoWhile.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\DoWhile.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\DoWhile.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\DoWhile.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\DoWhile.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\DoWhile.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\refint\DoWhile.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\DoWhile.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\DoWhile.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\DoWhile\obj\Debug\net6.0\ref\DoWhile.dll

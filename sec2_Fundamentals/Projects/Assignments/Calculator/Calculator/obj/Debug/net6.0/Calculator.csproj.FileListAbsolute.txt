@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Assignments\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll

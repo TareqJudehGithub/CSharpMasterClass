@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\bin\Debug\net7.0\IfElse.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\bin\Debug\net7.0\IfElse.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\bin\Debug\net7.0\IfElse.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\bin\Debug\net7.0\IfElse.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\bin\Debug\net7.0\IfElse.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\IfElse.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\IfElse.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\IfElse.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\IfElse.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\IfElse.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\refint\IfElse.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\IfElse.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\IfElse.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\IfElse\obj\Debug\net7.0\ref\IfElse.dll

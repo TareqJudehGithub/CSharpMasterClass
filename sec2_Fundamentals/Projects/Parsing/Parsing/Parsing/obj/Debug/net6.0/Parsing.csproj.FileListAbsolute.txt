@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\bin\Debug\net6.0\Parsing.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\bin\Debug\net6.0\Parsing.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\bin\Debug\net6.0\Parsing.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\bin\Debug\net6.0\Parsing.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\bin\Debug\net6.0\Parsing.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\Parsing.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\Parsing.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\Parsing.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\refint\Parsing.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\Parsing.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\Parsing.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Parsing\Parsing\Parsing\obj\Debug\net6.0\ref\Parsing.dll

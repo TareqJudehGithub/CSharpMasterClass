@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\bin\Debug\net6.0\Loops.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\bin\Debug\net6.0\Loops.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\bin\Debug\net6.0\Loops.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\bin\Debug\net6.0\Loops.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\Loops.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\refint\Loops.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\Loops.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Loops\obj\Debug\net6.0\ref\Loops.dll

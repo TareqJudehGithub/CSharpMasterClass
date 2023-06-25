@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\bin\Debug\net6.0\Strings.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\bin\Debug\net6.0\Strings.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\bin\Debug\net6.0\Strings.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\bin\Debug\net6.0\Strings.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\Strings.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\refint\Strings.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\Strings.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Strings\Strings\Strings\obj\Debug\net6.0\ref\Strings.dll

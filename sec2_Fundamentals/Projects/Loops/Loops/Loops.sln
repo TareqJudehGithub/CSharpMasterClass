@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{0BAB667A-8B15-4346-B646-E03ECA8EBCC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.csproj", "{62266E5B-6AE6-40BF-91ED-3C035A1BFE4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{BCDC4155-51FF-4654-B19F-F2E24F37FD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BAB667A-8B15-4346-B646-E03ECA8EBCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAB667A-8B15-4346-B646-E03ECA8EBCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAB667A-8B15-4346-B646-E03ECA8EBCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAB667A-8B15-4346-B646-E03ECA8EBCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62266E5B-6AE6-40BF-91ED-3C035A1BFE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62266E5B-6AE6-40BF-91ED-3C035A1BFE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62266E5B-6AE6-40BF-91ED-3C035A1BFE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62266E5B-6AE6-40BF-91ED-3C035A1BFE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDC4155-51FF-4654-B19F-F2E24F37FD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDC4155-51FF-4654-B19F-F2E24F37FD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDC4155-51FF-4654-B19F-F2E24F37FD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDC4155-51FF-4654-B19F-F2E24F37FD60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C6CC51-3A88-4D39-962E-56C02A1600CF}
+	EndGlobalSection
+EndGlobal
