@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\bin\Debug\net6.0\ContinueKeyword.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\bin\Debug\net6.0\ContinueKeyword.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\bin\Debug\net6.0\ContinueKeyword.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\bin\Debug\net6.0\ContinueKeyword.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\bin\Debug\net6.0\ContinueKeyword.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ContinueKeyword.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ContinueKeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ContinueKeyword.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ContinueKeyword.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ContinueKeyword.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ContinueKeyword.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\refint\ContinueKeyword.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ContinueKeyword.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ContinueKeyword.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\ContinueKeyword\obj\Debug\net6.0\ref\ContinueKeyword.dll

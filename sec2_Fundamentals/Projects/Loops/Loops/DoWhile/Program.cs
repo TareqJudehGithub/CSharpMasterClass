@@ -39,6 +39,11 @@
                 }
 
                 // convert user input to int
+
+                bool isParsableToInt = userInput.All(char.IsDigit);
+
+                Console.WriteLine(isParsableToInt);
+
                 userNumber = int.Parse(userInput);
                 if (userNumber < 0 || userNumber > 10)
                 {
