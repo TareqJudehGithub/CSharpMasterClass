@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\bin\Debug\net7.0\MultiArrays.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\bin\Debug\net7.0\MultiArrays.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\bin\Debug\net7.0\MultiArrays.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\bin\Debug\net7.0\MultiArrays.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\bin\Debug\net7.0\MultiArrays.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\MultiArrays.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\MultiArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\MultiArrays.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\MultiArrays.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\MultiArrays.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\MultiArrays.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\refint\MultiArrays.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\MultiArrays.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\MultiArrays.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Arrays\Arrays\MultiArrays\obj\Debug\net7.0\ref\MultiArrays.dll
