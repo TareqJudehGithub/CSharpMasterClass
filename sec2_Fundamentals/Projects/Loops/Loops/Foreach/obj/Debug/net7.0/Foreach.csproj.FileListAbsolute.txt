@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\bin\Debug\net7.0\Foreach.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\bin\Debug\net7.0\Foreach.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\bin\Debug\net7.0\Foreach.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\bin\Debug\net7.0\Foreach.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\bin\Debug\net7.0\Foreach.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\Foreach.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\Foreach.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\Foreach.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\refint\Foreach.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\Foreach.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\Foreach.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Loops\Loops\Foreach\obj\Debug\net7.0\ref\Foreach.dll

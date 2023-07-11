@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\bin\Debug\net6.0\TryParse.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\bin\Debug\net6.0\TryParse.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\bin\Debug\net6.0\TryParse.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\bin\Debug\net6.0\TryParse.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\bin\Debug\net6.0\TryParse.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\TryParse.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\TryParse.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\TryParse.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\TryParse.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\TryParse.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\refint\TryParse.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\TryParse.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\TryParse.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Converstions\TryParse\TryParse\obj\Debug\net6.0\ref\TryParse.dll

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\bin\Debug\net6.0\GetOnlyUpperCaseWords.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\bin\Debug\net6.0\GetOnlyUpperCaseWords.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\bin\Debug\net6.0\GetOnlyUpperCaseWords.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\bin\Debug\net6.0\GetOnlyUpperCaseWords.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\bin\Debug\net6.0\GetOnlyUpperCaseWords.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\GetOnlyUpperCaseWords.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\GetOnlyUpperCaseWords.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\GetOnlyUpperCaseWords.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\GetOnlyUpperCaseWords.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\GetOnlyUpperCaseWords.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\GetOnlyUpperCaseWords.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\refint\GetOnlyUpperCaseWords.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\GetOnlyUpperCaseWords.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\GetOnlyUpperCaseWords.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\obj\Debug\net6.0\ref\GetOnlyUpperCaseWords.dll

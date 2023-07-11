@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\bin\Debug\net6.0\Lists.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\bin\Debug\net6.0\Lists.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\bin\Debug\net6.0\Lists.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\bin\Debug\net6.0\Lists.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\Lists.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\refint\Lists.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\Lists.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\Lists\obj\Debug\net6.0\ref\Lists.dll
