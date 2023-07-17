@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ToDoListTask.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ToDoListTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ToDoListTask.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ToDoListTask.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ToDoListTask.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\bin\Debug\net6.0\ToDoListTask.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\bin\Debug\net6.0\ToDoListTask.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\bin\Debug\net6.0\ToDoListTask.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\bin\Debug\net6.0\ToDoListTask.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\bin\Debug\net6.0\ToDoListTask.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ToDoListTask.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\refint\ToDoListTask.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ToDoListTask.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ToDoListTask.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTask\ToDoListTask\obj\Debug\net6.0\ref\ToDoListTask.dll
