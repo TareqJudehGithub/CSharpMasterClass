@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\bin\Debug\net6.0\ToDoSolution.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\bin\Debug\net6.0\ToDoSolution.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\bin\Debug\net6.0\ToDoSolution.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\bin\Debug\net6.0\ToDoSolution.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\bin\Debug\net6.0\ToDoSolution.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ToDoSolution.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ToDoSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ToDoSolution.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ToDoSolution.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ToDoSolution.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ToDoSolution.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\refint\ToDoSolution.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ToDoSolution.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ToDoSolution.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Assignments\ToDoListTaskAssignment\ToDoSolution\ToDoSolution\obj\Debug\net6.0\ref\ToDoSolution.dll
