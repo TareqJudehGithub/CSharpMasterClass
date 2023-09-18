@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\DailyAccountState.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\DailyAccountState.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\DailyAccountState.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\DailyAccountState.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\bin\Debug\net6.0\DailyAccountState.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\bin\Debug\net6.0\DailyAccountState.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\bin\Debug\net6.0\DailyAccountState.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\bin\Debug\net6.0\DailyAccountState.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\bin\Debug\net6.0\DailyAccountState.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\DailyAccountState.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\refint\DailyAccountState.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\DailyAccountState.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\DailyAccountState.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DailyAccountState\DailyAccountState\DailyAccountState\obj\Debug\net6.0\ref\DailyAccountState.dll

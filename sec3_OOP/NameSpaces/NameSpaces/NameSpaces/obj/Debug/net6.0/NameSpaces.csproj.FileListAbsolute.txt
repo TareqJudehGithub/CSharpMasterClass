@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\bin\Debug\net6.0\NameSpaces.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\bin\Debug\net6.0\NameSpaces.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\bin\Debug\net6.0\NameSpaces.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\bin\Debug\net6.0\NameSpaces.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\bin\Debug\net6.0\NameSpaces.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\NameSpaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\NameSpaces.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\NameSpaces.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\NameSpaces.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\NameSpaces.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\refint\NameSpaces.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\NameSpaces.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\NameSpaces.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\NameSpaces\NameSpaces\NameSpaces\obj\Debug\net6.0\ref\NameSpaces.dll

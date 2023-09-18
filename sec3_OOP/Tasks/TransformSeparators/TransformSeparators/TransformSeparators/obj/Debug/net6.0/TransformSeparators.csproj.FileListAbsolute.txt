@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\bin\Debug\net6.0\TransformSeparators.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\bin\Debug\net6.0\TransformSeparators.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\bin\Debug\net6.0\TransformSeparators.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\bin\Debug\net6.0\TransformSeparators.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\bin\Debug\net6.0\TransformSeparators.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\TransformSeparators.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\TransformSeparators.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\TransformSeparators.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\TransformSeparators.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\TransformSeparators.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\refint\TransformSeparators.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\TransformSeparators.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\TransformSeparators.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\TransformSeparators\TransformSeparators\TransformSeparators\obj\Debug\net6.0\ref\TransformSeparators.dll

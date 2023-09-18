@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\bin\Debug\net6.0\FirstClass.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\bin\Debug\net6.0\FirstClass.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\bin\Debug\net6.0\FirstClass.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\bin\Debug\net6.0\FirstClass.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\bin\Debug\net6.0\FirstClass.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\FirstClass.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\FirstClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\FirstClass.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\FirstClass.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\FirstClass.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\FirstClass.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\refint\FirstClass.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\FirstClass.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\FirstClass.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\FirstClass\FirstClass\obj\Debug\net6.0\ref\FirstClass.dll

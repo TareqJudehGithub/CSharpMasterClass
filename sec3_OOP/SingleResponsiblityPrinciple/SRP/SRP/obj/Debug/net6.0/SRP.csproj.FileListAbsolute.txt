@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\bin\Debug\net6.0\SRP.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\bin\Debug\net6.0\SRP.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\bin\Debug\net6.0\SRP.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\bin\Debug\net6.0\SRP.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\bin\Debug\net6.0\SRP.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\SRP.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\SRP.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\SRP.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\SRP.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\refint\SRP.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\SRP.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\SRP.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\SingleResponsiblityPrinciple\SRP\SRP\obj\Debug\net6.0\ref\SRP.dll

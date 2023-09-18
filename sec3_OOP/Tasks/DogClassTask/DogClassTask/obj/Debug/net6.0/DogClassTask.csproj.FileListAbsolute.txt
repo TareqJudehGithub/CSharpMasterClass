@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\bin\Debug\net6.0\DogClassTask.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\bin\Debug\net6.0\DogClassTask.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\bin\Debug\net6.0\DogClassTask.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\bin\Debug\net6.0\DogClassTask.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\bin\Debug\net6.0\DogClassTask.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\DogClassTask.csproj.AssemblyReference.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\DogClassTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\DogClassTask.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\DogClassTask.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\DogClassTask.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\DogClassTask.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\refint\DogClassTask.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\DogClassTask.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\DogClassTask.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\DogClassTask\DogClassTask\obj\Debug\net6.0\ref\DogClassTask.dll

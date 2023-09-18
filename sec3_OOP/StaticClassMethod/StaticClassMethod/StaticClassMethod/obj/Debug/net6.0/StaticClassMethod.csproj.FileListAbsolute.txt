@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\bin\Debug\net6.0\StaticClassMethod.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\bin\Debug\net6.0\StaticClassMethod.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\bin\Debug\net6.0\StaticClassMethod.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\bin\Debug\net6.0\StaticClassMethod.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\bin\Debug\net6.0\StaticClassMethod.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\StaticClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\StaticClassMethod.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\StaticClassMethod.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\StaticClassMethod.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\StaticClassMethod.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\refint\StaticClassMethod.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\StaticClassMethod.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\StaticClassMethod.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\StaticClassMethod\StaticClassMethod\StaticClassMethod\obj\Debug\net6.0\ref\StaticClassMethod.dll

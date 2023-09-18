@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\bin\Debug\net6.0\ComputedProperties.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\bin\Debug\net6.0\ComputedProperties.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\bin\Debug\net6.0\ComputedProperties.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\bin\Debug\net6.0\ComputedProperties.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\bin\Debug\net6.0\ComputedProperties.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\ComputedProperties.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\ComputedProperties.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\ComputedProperties.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\ComputedProperties.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\ComputedProperties.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\refint\ComputedProperties.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\ComputedProperties.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\ComputedProperties.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\ComputerProperties\ComputedProperties\ComputedProperties\obj\Debug\net6.0\ref\ComputedProperties.dll
