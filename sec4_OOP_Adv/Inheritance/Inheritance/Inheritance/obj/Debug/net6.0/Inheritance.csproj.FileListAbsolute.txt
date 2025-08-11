@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec4_OOP_Adv\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll

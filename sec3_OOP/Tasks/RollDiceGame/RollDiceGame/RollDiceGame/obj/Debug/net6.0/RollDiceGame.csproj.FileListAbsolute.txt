@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\bin\Debug\net6.0\RollDiceGame.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\bin\Debug\net6.0\RollDiceGame.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\bin\Debug\net6.0\RollDiceGame.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\bin\Debug\net6.0\RollDiceGame.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\bin\Debug\net6.0\RollDiceGame.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\RollDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\RollDiceGame.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\RollDiceGame.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\RollDiceGame.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\RollDiceGame.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\refint\RollDiceGame.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\RollDiceGame.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\RollDiceGame.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Tasks\RollDiceGame\RollDiceGame\RollDiceGame\obj\Debug\net6.0\ref\RollDiceGame.dll

@@ -9,3 +9,7 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GetOnlyUpperCaseWords
 build_property.ProjectDir = E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec2_Fundamentals\Projects\Lists\Lists\GetOnlyUpperCaseWords\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 

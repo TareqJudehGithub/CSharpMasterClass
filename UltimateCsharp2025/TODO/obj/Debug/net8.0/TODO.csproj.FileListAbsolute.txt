@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\bin\Debug\net8.0\TODO.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\bin\Debug\net8.0\TODO.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\bin\Debug\net8.0\TODO.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\bin\Debug\net8.0\TODO.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\bin\Debug\net8.0\TODO.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\TODO.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\TODO.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\TODO.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\TODO.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\TODO.sourcelink.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\TODO.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\refint\TODO.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\TODO.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\TODO.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\TODO\obj\Debug\net8.0\ref\TODO.dll

@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\TernaryOperator.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\TernaryOperator.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\TernaryOperator.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\bin\Debug\net7.0\TernaryOperator.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\bin\Debug\net7.0\TernaryOperator.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\bin\Debug\net7.0\TernaryOperator.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\bin\Debug\net7.0\TernaryOperator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\bin\Debug\net7.0\TernaryOperator.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\TernaryOperator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\refint\TernaryOperator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\TernaryOperator.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\TernaryOperator.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\TernaryOperator\obj\Debug\net7.0\ref\TernaryOperator.dll

@@ -1,0 +1,14 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\bin\Debug\net6.0\Enums.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\bin\Debug\net6.0\Enums.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\bin\Debug\net6.0\Enums.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\bin\Debug\net6.0\Enums.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\Enums.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\refint\Enums.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\Enums.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\sec3_OOP\Enums\Enums\Enums\obj\Debug\net6.0\ref\Enums.dll
