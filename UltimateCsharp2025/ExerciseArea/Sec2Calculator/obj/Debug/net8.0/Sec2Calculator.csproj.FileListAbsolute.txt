@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\bin\Debug\net8.0\Sec2Calculator.exe
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\bin\Debug\net8.0\Sec2Calculator.deps.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\bin\Debug\net8.0\Sec2Calculator.runtimeconfig.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\bin\Debug\net8.0\Sec2Calculator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\bin\Debug\net8.0\Sec2Calculator.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\Sec2Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\Sec2Calculator.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\Sec2Calculator.AssemblyInfo.cs
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\Sec2Calculator.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\Sec2Calculator.sourcelink.json
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\Sec2Calculator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\refint\Sec2Calculator.dll
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\Sec2Calculator.pdb
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\Sec2Calculator.genruntimeconfig.cache
+E:\web\ASP_NET\Krystyna\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\Sec2Calculator\obj\Debug\net8.0\ref\Sec2Calculator.dll
