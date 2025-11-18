@@ -1,0 +1,15 @@
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\bin\Debug\net10.0\Loops.exe
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\bin\Debug\net10.0\Loops.deps.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\bin\Debug\net10.0\Loops.runtimeconfig.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\bin\Debug\net10.0\Loops.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\bin\Debug\net10.0\Loops.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\Loops.AssemblyInfoInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\Loops.AssemblyInfo.cs
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\Loops.csproj.CoreCompileInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\Loops.sourcelink.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\Loops.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\refint\Loops.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\Loops.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\Loops.genruntimeconfig.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Loops\obj\Debug\net10.0\ref\Loops.dll

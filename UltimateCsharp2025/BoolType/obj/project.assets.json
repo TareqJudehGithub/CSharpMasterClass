@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\web\\ASP_NET\\Krystyna\\CSharpMasterClass\\UltimateCsharp2025\\BoolType\\BoolType.csproj",
+      "projectUniqueName": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\BoolType\\BoolType.csproj",
       "projectName": "BoolType",
-      "projectPath": "E:\\web\\ASP_NET\\Krystyna\\CSharpMasterClass\\UltimateCsharp2025\\BoolType\\BoolType.csproj",
+      "projectPath": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\BoolType\\BoolType.csproj",
       "packagesPath": "C:\\Users\\USER10\\.nuget\\packages\\",
-      "outputPath": "E:\\web\\ASP_NET\\Krystyna\\CSharpMasterClass\\UltimateCsharp2025\\BoolType\\obj\\",
+      "outputPath": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\BoolType\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -53,7 +53,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
