@@ -1,0 +1,15 @@
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\bin\Debug\net8.0\BoolType.exe
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\bin\Debug\net8.0\BoolType.deps.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\bin\Debug\net8.0\BoolType.runtimeconfig.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\bin\Debug\net8.0\BoolType.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\bin\Debug\net8.0\BoolType.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\BoolType.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\BoolType.AssemblyInfoInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\BoolType.AssemblyInfo.cs
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\BoolType.csproj.CoreCompileInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\BoolType.sourcelink.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\BoolType.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\refint\BoolType.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\BoolType.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\BoolType.genruntimeconfig.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\BoolType\obj\Debug\net8.0\ref\BoolType.dll

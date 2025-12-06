@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33933ECF-631D-4F83-BA89-8FEE17F3EF47}|Loops\\Loops.csproj|e:\\webdev\\fullstack2025\\practice\\csharpmasterclass\\ultimatecsharp2025\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33933ECF-631D-4F83-BA89-8FEE17F3EF47}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7970BB9B-54F5-4EBD-952B-8824A21E5BD5}|TODO\\TODO.csproj|e:\\webdev\\fullstack2025\\practice\\csharpmasterclass\\ultimatecsharp2025\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7970BB9B-54F5-4EBD-952B-8824A21E5BD5}|TODO\\TODO.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3165A99F-C8F5-4B4D-B3B1-E376E44A78D8}|ParseOut\\ParseOut.csproj|e:\\webdev\\fullstack2025\\practice\\csharpmasterclass\\ultimatecsharp2025\\parseout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3165A99F-C8F5-4B4D-B3B1-E376E44A78D8}|ParseOut\\ParseOut.csproj|solutionrelative:parseout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\Loops\\Program.cs",
-              "RelativeDocumentMoniker": "Loops\\Program.cs",
-              "ToolTip": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\Loops\\Program.cs",
-              "RelativeToolTip": "Loops\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAswFMAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\ParseOut\\Program.cs",
+              "RelativeDocumentMoniker": "ParseOut\\Program.cs",
+              "ToolTip": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\ParseOut\\Program.cs",
+              "RelativeToolTip": "ParseOut\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:37:24.104Z",
+              "WhenOpened": "2025-12-06T14:32:00.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\TODO\\Program.cs",
               "RelativeDocumentMoniker": "TODO\\Program.cs",
               "ToolTip": "E:\\WebDev\\FullStack2025\\Practice\\CSharpMasterClass\\UltimateCsharp2025\\TODO\\Program.cs",
               "RelativeToolTip": "TODO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T17:33:35.428Z",
+              "WhenOpened": "2025-12-06T14:29:41.647Z",
               "EditorCaption": ""
             }
           ]

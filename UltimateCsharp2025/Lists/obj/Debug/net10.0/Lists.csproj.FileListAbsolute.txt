@@ -1,0 +1,15 @@
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\bin\Debug\net10.0\Lists.exe
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\bin\Debug\net10.0\Lists.deps.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\bin\Debug\net10.0\Lists.runtimeconfig.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\bin\Debug\net10.0\Lists.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\bin\Debug\net10.0\Lists.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\Lists.AssemblyInfoInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\Lists.AssemblyInfo.cs
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\Lists.csproj.CoreCompileInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\Lists.sourcelink.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\Lists.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\refint\Lists.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\Lists.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\Lists.genruntimeconfig.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Lists\obj\Debug\net10.0\ref\Lists.dll

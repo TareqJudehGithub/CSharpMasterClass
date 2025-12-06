@@ -1,0 +1,15 @@
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\bin\Debug\net10.0\Array.exe
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\bin\Debug\net10.0\Array.deps.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\bin\Debug\net10.0\Array.runtimeconfig.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\bin\Debug\net10.0\Array.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\bin\Debug\net10.0\Array.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\Array.AssemblyInfoInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\Array.AssemblyInfo.cs
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\Array.csproj.CoreCompileInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\Array.sourcelink.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\Array.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\refint\Array.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\Array.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\Array\obj\Debug\net10.0\ref\Array.dll

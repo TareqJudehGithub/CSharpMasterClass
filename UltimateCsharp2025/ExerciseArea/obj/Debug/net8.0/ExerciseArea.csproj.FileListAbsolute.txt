@@ -1,0 +1,5 @@
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\obj\Debug\net8.0\ExerciseArea.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\obj\Debug\net8.0\ExerciseArea.AssemblyInfoInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\obj\Debug\net8.0\ExerciseArea.AssemblyInfo.cs
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\obj\Debug\net8.0\ExerciseArea.csproj.CoreCompileInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ExerciseArea\obj\Debug\net8.0\ExerciseArea.sourcelink.json

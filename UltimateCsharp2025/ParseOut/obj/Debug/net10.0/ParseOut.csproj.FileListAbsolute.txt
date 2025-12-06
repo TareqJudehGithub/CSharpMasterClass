@@ -1,0 +1,15 @@
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\bin\Debug\net10.0\ParseOut.exe
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\bin\Debug\net10.0\ParseOut.deps.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\bin\Debug\net10.0\ParseOut.runtimeconfig.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\bin\Debug\net10.0\ParseOut.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\bin\Debug\net10.0\ParseOut.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ParseOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ParseOut.AssemblyInfoInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ParseOut.AssemblyInfo.cs
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ParseOut.csproj.CoreCompileInputs.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ParseOut.sourcelink.json
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ParseOut.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\refint\ParseOut.dll
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ParseOut.pdb
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ParseOut.genruntimeconfig.cache
+E:\WebDev\FullStack2025\Practice\CSharpMasterClass\UltimateCsharp2025\ParseOut\obj\Debug\net10.0\ref\ParseOut.dll
